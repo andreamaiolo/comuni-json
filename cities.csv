@@ -29,7 +29,6 @@
 0,020,020001,Acquanegra sul Chiese,acquanegra-sul-chiese
 0,056,056001,Acquapendente,acquapendente
 0,078,078002,Acquappesa,acquappesa
-0,075,075001,Acquarica del Capo,acquarica-del-capo
 0,102,102001,Acquaro,acquaro
 0,044,044001,Acquasanta Terme,acquasanta-terme
 0,055,055001,Acquasparta,acquasparta
@@ -1795,8 +1794,8 @@
 0,075,075017,Castri di Lecce,castri-di-lecce
 0,075,075018,Castrignano de' Greci,castrignano-de-greci
 0,075,075019,Castrignano del Capo,castrignano-del-capo
-0,016,016065,Castro,castro
 0,075,075096,Castro,castro
+0,016,016065,Castro,castro
 0,060,060023,Castro dei Volsci,castro-dei-volsci
 0,040,040005,Castrocaro Terme e Terra del Sole,castrocaro-terme-e-terra-del-sole
 0,060,060022,Castrocielo,castrocielo
@@ -4501,7 +4500,7 @@
 0,058,058069,Nazzano,nazzano
 0,010,010040,Ne,ne
 0,003,003103,Nebbiuno,nebbiuno
-0,023,023052,Negrar,negrar
+0,023,023052,Negrar di Valpolicella,negrar-di-valpolicella
 0,010,010041,Neirone,neirone
 0,004,004148,Neive,neive
 0,016,016144,Nembro,nembro
@@ -5443,7 +5442,7 @@
 0,017,017153,Preseglie,preseglie
 0,061,061065,Presenzano,presenzano
 0,016,016176,Presezzo,presezzo
-0,075,075062,Presicce,presicce
+0,075,075098,Presicce-Acquarica,presicce-acquarica
 0,023,023061,Pressana,pressana
 0,069,069069,Pretoro,pretoro
 0,017,017155,Prevalle,prevalle
@@ -5968,8 +5967,8 @@
 0,072,072039,Sammichele di Bari,sammichele-di-bari
 0,080,080070,Samo,samo
 0,014,014057,Samolaco,samolaco
-0,001,001235,Samone,samone
 0,022,022165,Samone,samone
+0,001,001235,Samone,samone
 0,004,004205,Sampeyre,sampeyre
 0,095,095045,Samugheo,samugheo
 0,008,008052,San Bartolomeo al Mare,san-bartolomeo-al-mare
